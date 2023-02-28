@@ -1,6 +1,6 @@
 # TheUltimateGoLibrary
 
-[Go PlayGround](Practical Go Lessons)
+[Go PlayGround](https://play.golang.com/)
 
 No | Preview | Book Name | Page | Comments |
 | --- | --- | --- | --- | --- |
