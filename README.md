@@ -1,6 +1,6 @@
 # TheUltimateGoLibrary
 
-[Go PlayGround](https://play.golang.com/)
+For practicing use:[Go PlayGround](https://play.golang.com/)
 
 No | Preview | Book Name | Page | Comments |
 | --- | --- | --- | --- | --- |
