@@ -3,7 +3,7 @@ Go is an open source programming language that makes it easy to build simple, re
 
 Download and Install
 Binary Distributions
-Official binary distributions are available at https://go.dev/dl/. /
+Official binary distributions are available at https://go.dev/dl/.\
 After downloading a binary release, visit https://go.dev/doc/install for installation instructions.\
 
 For practicing use: [Go PlayGround](https://play.golang.com/)
